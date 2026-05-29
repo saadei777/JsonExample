@@ -1,0 +1,42 @@
+[
+  {
+    "UserType": "Admin",
+    "Name": "Diana Prince",
+    "Age": 40,
+    "City": "Vilnius",
+    "AccessLevel": 5,
+    "Department": "IT Security"
+  },
+  {
+    "UserType": "Admin",
+    "Name": "Ethan Hunt",
+    "Age": 45,
+    "City": "Kaunas",
+    "AccessLevel": 4,
+    "Department": "DevOps"
+  },
+  {
+    "UserType": "RegularUser",
+    "Name": "Fiona Green",
+    "Age": 30,
+    "City": "Klaipeda",
+    "Subscription": "Premium",
+    "LastLogin": "2026-05-28"
+  },
+  {
+    "UserType": "RegularUser",
+    "Name": "George Black",
+    "Age": 25,
+    "City": "Vilnius",
+    "Subscription": "Free",
+    "LastLogin": "2026-05-20"
+  },
+  {
+    "UserType": "Moderator",
+    "Name": "Hannah Blue",
+    "Age": 33,
+    "City": "Siauliai",
+    "ModeratedSection": "Forums",
+    "WarningsIssued": 12
+  }
+]

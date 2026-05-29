@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Alice Johnson",
+    "Age": 28,
+    "City": "Vilnius"
+  },
+  {
+    "Name": "Bob Smith",
+    "Age": 35,
+    "City": "Kaunas"
+  },
+  {
+    "Name": "Carol White",
+    "Age": 22,
+    "City": "Klaipeda"
+  },
+  {
+    "Name": "David Lee",
+    "Age": 31,
+    "City": "Panevezys"
+  }
+]
