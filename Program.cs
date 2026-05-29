@@ -1,7 +1,7 @@
 // ============================================================
 // JsonExample - C# NuGet + JSON Assignment
 // Tasks: JSON read/write, deserialization, inheritance
-// v2.0 - Added Task 2: Add new entries to JSON array
+// v3.0 - Added Task 3: Deserialize all users with loop
 // ============================================================
 
 using Newtonsoft.Json;
